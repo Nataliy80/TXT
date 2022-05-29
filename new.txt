@@ -1,0 +1,6 @@
+1. name: Nataliy
+2. surname: Malinkina
+3. age: 41
+4. pet: not
+5. salary: 400$
+
