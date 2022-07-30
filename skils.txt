@@ -1,7 +1,0 @@
-1. Terminal,
-2. Java Script,
-3. Postman,
-4. Git,
-5. SQL,
-6. Scrum,
-7. Python
